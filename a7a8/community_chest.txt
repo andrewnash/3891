@@ -1,0 +1,17 @@
+AdvanceToSpecific, Advance to Go (Collect $200), 0, 0
+GetMoney, Bank error in your favour - Collect $200, 200, 0
+PayMoney, Doctor's fees - Pay $50, 50, 0
+GetMoney, From sale of stock you get $50, 50, 0
+GetOutOfJail, Get out of jail free, 0, 0
+GoToJail, Go to jail - Go directly to jail - Do not pass Go - Do not collect $200, 10, 0
+GetFromOthers, Grand Opera Night - Collect $50 from every player for opening night seats, 50, 0
+GetMoney, Holiday Fund matures - Receive $100, 100, 0
+GetMoney, Income tax refund - Collect $20, 20, 0
+GetFromOthers, It's your birthday - Collect $10 from each player, 10, 0
+GetMoney, Life insurance matures - Collect $100, 100, 0
+PayMoney, Pay hospital fees of $100, 100, 0
+PayMoney, Pay school fees of $150, 150, 0
+GetMoney, Receive $25 consultancy fee, 25, 0
+PayPer, You are assessed for street repairs - $40 per house - $115 per hotel, 40, 115
+GetMoney, You have won second prize in a beauty contest - Collect $10, 10, 0
+GetMoney, You inherit $100, 100, 0

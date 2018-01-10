@@ -1,0 +1,17 @@
+AdvanceToSpecific, Advance to Go (Collect $200), 0, 0
+AdvanceToSpecific, Advance to Illinois Ave. - If you pass Go collect $200, 24, 0
+AdvanceToSpecific, Advance to St. Charles Place - If you pass Go collect $200, 11, 0
+AdvanceToNearest, Advance token to nearest utility, 12, 0
+AdvanceToNearest, Advance token to the nearest Railroad, 5, 0
+AdvanceToNearest, Advance token to the nearest Railroad, 5, 0
+GetMoney, Bank pays you a divident of $50, 50, 0
+GetOutOfJail, Get out of jail free, 0, 0
+GoToJail, Go to jail - Go directly to jail - Do not pass Go - Do not collect $200, 10, 0
+MoveBack, Go back 3 spaces, 3, 0
+PayPer, Make general repairs on all your property - $25 per house - $100 per hotel, 25, 100
+PayMoney, Pay poor tax of $15, 15, 0
+AdvanceToSpecific, Take a trip to Reading Railroad, 5, 0
+AdvanceToSpecific, Take a walk on the Boardwalk, 39, 0
+PayOthers, You have been elected Chairman of the Board - Pay each player $50, 50, 0
+GetMoney, Your building and loan matures - Collect $150, 150, 0
+GetMoney, You have won a crosswork competition - Collect $100, 100, 0

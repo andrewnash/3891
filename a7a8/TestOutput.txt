@@ -1,0 +1,160 @@
+***********************************************
+.<Total Test Weight = >
+***********************************************
+
+**********************************************************************
+Player Stats
+**********************************************************************
+Player1
+Current Location: 2
+Current Balance: 1500
+InJail status: 0
+Number of houses: 4
+Number of hotels: 1
+
+Player2
+Current Location: 3
+Current Balance: 1500
+InJail status: 0
+Number of houses: 3
+Number of hotels: 2
+
+Player3
+Current Location: 4
+Current Balance: 1500
+InJail status: 0
+Number of houses: 2
+Number of hotels: 3
+
+Player4
+Current Location: 5
+Current Balance: 1500
+InJail status: 0
+Number of houses: 1
+Number of hotels: 4
+
+Player 1 turn.
+Drawing card from Chance Deck.
+ Advance to St. Charles Place - If you pass Go collect $200
+Player 1 Location Before: 2
+Player 1 Balance Before: 1500
+Player 1 Location After: 11
+Player 1 Balance After: 1500
+
+Player 2 turn.
+Drawing card from Chance Deck.
+ Go to jail - Go directly to jail - Do not pass Go - Do not collect $200
+Player 2 inJail status before: 0
+Player 2 inJail status after: 1
+
+Player 3 turn.
+Drawing card from Chance Deck.
+ You have been elected Chairman of the Board - Pay each player $50
+Player 1 Balance Before: 1500
+Player 2 Balance Before: 1500
+Player 3 Balance Before: 1500
+Player 4 Balance Before: 1500
+Player 1 Balance After: 1550
+Player 2 Balance After: 1550
+Player 3 Balance After: 1350
+Player 4 Balance After: 1550
+
+Player 4 turn.
+Drawing card from Chance Deck.
+ Get out of jail free
+Added 1 get out of jail free card.
+
+Player 1 turn.
+Drawing card from Chance Deck.
+ Bank pays you a divident of $50
+Player 1 Balance Before: 1550
+Player 1 Balance After: 1600
+
+Player 2 turn.
+Drawing card from Chance Deck.
+ Advance token to the nearest Railroad
+Player 2 Location Before: 10
+Player 2 Balance Before: 1550
+Player 2 Location After: 15
+Player 2 Balance After: 1550
+
+Player 3 turn.
+Drawing card from Chance Deck.
+ You have won a crosswork competition - Collect $100
+Player 3 Balance Before: 1350
+Player 3 Balance After: 1450
+
+Player 4 turn.
+Drawing card from Chance Deck.
+ Advance to Illinois Ave. - If you pass Go collect $200
+Player 4 Location Before: 5
+Player 4 Balance Before: 1550
+Player 4 Location After: 24
+Player 4 Balance After: 1550
+
+Player 1 turn.
+Drawing card from Chance Deck.
+ Advance token to nearest utility
+Player 1 Location Before: 11
+Player 1 Balance Before: 1600
+Player 1 Location After: 12
+Player 1 Balance After: 1600
+
+Player 2 turn.
+Drawing card from Chance Deck.
+ Your building and loan matures - Collect $150
+Player 2 Balance Before: 1550
+Player 2 Balance After: 1700
+
+Player 3 turn.
+Drawing card from Chance Deck.
+ Take a trip to Reading Railroad
+Player 3 Location Before: 4
+Player 3 Balance Before: 1450
+Player 3 Location After: 5
+Player 3 Balance After: 1450
+
+Player 4 turn.
+Drawing card from Chance Deck.
+ Advance token to the nearest Railroad
+Player 4 Location Before: 24
+Player 4 Balance Before: 1550
+Player 4 Location After: 25
+Player 4 Balance After: 1550
+
+Player 1 turn.
+Drawing card from Chance Deck.
+ Pay poor tax of $15
+Player 1 Balance Before: 1600
+Player 1 Balance After: 1585
+
+Player 2 turn.
+Drawing card from Chance Deck.
+ Take a walk on the Boardwalk
+Player 2 Location Before: 15
+Player 2 Balance Before: 1700
+Player 2 Location After: 39
+Player 2 Balance After: 1700
+
+Player 3 turn.
+Drawing card from Chance Deck.
+ Go back 3 spaces
+Player 3 Location Before: 5
+Player 3 Balance Before: 1450
+Player 3 Location After: 2
+Player 3 Balance After: 1650
+
+Player 4 turn.
+Drawing card from Chance Deck.
+ Make general repairs on all your property - $25 per house - $100 per hotel
+Player 4 Balance Before: 1550
+Player 4 Hotels Before: 4
+Player 4 Houses Before: 1
+Player 4 Balance After: 0
+
+start destructor
+end of destuctor
+start destructor
+end of destuctor
+start destructor
+end of destuctor
